@@ -1,6 +1,6 @@
 ### Hi there, I'm [Bleriot Noguia!](https://bleriotnoguia.com) 👋
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=bleriotnoguia&show_icons=true&include_all_commits=true&theme=github_dark" alt="Bleriot's github stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=bleriotnoguia&show_icons=true&theme=github_dark" alt="Bleriot's github stats" />
 <div>
   Hi, I'm Bleriot Noguia, a passionate self-taught web developer.
 
