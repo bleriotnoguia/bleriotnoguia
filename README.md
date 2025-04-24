@@ -4,7 +4,7 @@
 <div>
   Hi, I'm Bleriot Noguia, a passionate self-taught web developer.
 
-  - 🔭 I’m currently working on [cointracker](https://github.com/bleriotnoguia/cointracker)
+  - 🔭 I’m currently working on [JavaScript.cm](https://github.com/bleriotnoguia/javascript.cm)
   - 🌱 I’m currently learning [AdonisJS](https://github.com/adonisjs/core)
   - 👯 I’m looking to collaborate on [Cardano](https://github.com/IntersectMBO/cardano-node)
   - 💬 Ask me about anything [here](https://github.com/bleriotnoguia/bleriotnoguia/issues)
